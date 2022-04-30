@@ -138,6 +138,41 @@ Begin WebPage WebPage1
       _mPanelIndex    =   -1
       _ProtectImage   =   False
    End
+   Begin WebLink Link1
+      Appearance      =   0
+      Bold            =   False
+      ControlID       =   ""
+      Enabled         =   True
+      FontName        =   ""
+      FontSize        =   0.0
+      Height          =   38
+      Index           =   -2147483648
+      Indicator       =   ""
+      Italic          =   False
+      Left            =   20
+      LockBottom      =   False
+      LockedInPosition=   False
+      LockHorizontal  =   False
+      LockLeft        =   True
+      LockRight       =   False
+      LockTop         =   True
+      LockVertical    =   False
+      Multiline       =   False
+      Scope           =   0
+      TabIndex        =   4
+      TabStop         =   True
+      Target          =   1
+      Text            =   "Watch The XDC Session about this project"
+      TextAlignment   =   0
+      TextColor       =   &c0000FF00
+      Tooltip         =   ""
+      Top             =   370
+      Underline       =   False
+      URL             =   "https://www.youtube.com/watch?v=NeNJU5eTL3w"
+      Visible         =   True
+      Width           =   362
+      _mPanelIndex    =   -1
+   End
 End
 #tag EndWebPage
 

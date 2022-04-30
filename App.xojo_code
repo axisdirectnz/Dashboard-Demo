@@ -44,6 +44,8 @@ Inherits WebApplication
 	#tag Note, Name = ReadMe
 		You can alter the speed of refresh by changing the period in the DashboardData.Constructor Method
 		
+		Watch the XDC Session about this project at https://www.youtube.com/watch?v=NeNJU5eTL3w
+		
 		
 	#tag EndNote
 
